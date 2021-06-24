@@ -1,2 +1,2 @@
 let productosDeVerduleria=['Manzana','Naranja','Banana','Lechuga']
-let productosDeTecnologia=['Television','Celular','Computadora']
+let productosDeTecnologia=['Television','Celular','Celular']
